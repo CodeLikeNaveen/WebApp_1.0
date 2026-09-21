@@ -34,6 +34,9 @@ export const metadata = {
       "Explore Naveen Reddu's portfolio, projects, skills, and experience.",
     type: "website",
   },
+  verification: {
+    google: "0unghWjnnfibgUVfdPTcrAhxsRQnxLIrhnGP1-iXnOg",
+  },
 };
 
 export default function RootLayout({ children }) {
