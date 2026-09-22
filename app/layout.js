@@ -29,10 +29,12 @@ export const metadata = {
   ],
   authors: [{ name: "Naveen Reddu" }],
   openGraph: {
-    title: "Naveen Reddu | Software Developer",
-    description:
-      "Explore Naveen Reddu's portfolio, projects, skills, and experience.",
+    title: "Naveen Reddu | My Latest Portfolio Website",
+    description: "Explore Naveen Reddu's portfolio, projects, skills, and experience.",
+    url: "https://naveenreddu.vercel.app/",
+    siteName: "Naveen Reddu",
     type: "website",
+    
   },
   verification: {
     google: "0unghWjnnfibgUVfdPTcrAhxsRQnxLIrhnGP1-iXnOg",
