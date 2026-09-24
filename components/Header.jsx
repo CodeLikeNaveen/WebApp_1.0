@@ -7,7 +7,7 @@ import { motion } from 'motion/react'
 
 const Header = () => {
 
-  const myResume = 'https://ik.imagekit.io/vhjgzum1h/WebData/Naveen_Resume.pdf'
+  const myResume = 'https://ik.imagekit.io/vhjgzum1h/WebData/Naveen_Resume.pdf?updatedAt=1790249819264'
 
   return (
     <div id='#top' className='w-11/12 max-w-3xl text-center mx-auto h-screen flex flex-col items-center justify-center gap-4'>
