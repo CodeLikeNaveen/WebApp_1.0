@@ -18,6 +18,12 @@ const Work = () => {
             bgImage: '/work-2.svg',
             link: 'https://naveenreddu.vercel.app/'
         },
+        {
+            title: 'TripMate AI',
+            description: 'Generative AI Trip Planner',
+            bgImage: '/work-3.svg',
+            link: 'https://lnkd.in/p/g6467CVf'
+        },
     ]
 
     return (
