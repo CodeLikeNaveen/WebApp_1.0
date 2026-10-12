@@ -65,7 +65,7 @@ const About = () => {
                     transition={{ duration: 0.6, delay: 0.8 }}
                     className='flex-1'>
                     <p className='mb-10 max-w-2xl font-Ovo'>
-                        I'm a Computer Science graduate from Haryana, India, and a GATE DA 2026 Qualified candidate. As a MERN Stack Developer, I'm passionate about building modern, scalable, and user-friendly web applications. I enjoy solving problems, learning new technologies, and turning ideas into impactful digital experiences.
+                        I'm a Computer Science graduate from Haryana, India, and a <b>GATE DA 2026 Qualified </b>candidate. As a <b>MERN Stack and AI Developer</b>, I'm passionate about building modern, scalable, and user-friendly web applications. I enjoy solving problems, learning new technologies, and turning ideas into impactful digital experiences.
                     </p>
 
                     <motion.ul
