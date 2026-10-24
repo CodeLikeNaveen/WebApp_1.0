@@ -35,7 +35,7 @@ const Header = () => {
         whileInView={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.8, delay: 0.5 }}
         className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo'>
-        MERN Stack developer
+        MERN & AI developer
       </motion.h1>
 
       {/* description  */}
@@ -44,7 +44,7 @@ const Header = () => {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.7 }}
         className='max-w-2xl mx-auto font-Ovo'>
-        I am a MERN Stack Developer from Haryana, India, passionate about building modern web applications.
+        I am a MERN Stack & AI Developer from Haryana, India, passionate about building modern web applications.
  
       </motion.p>
 
