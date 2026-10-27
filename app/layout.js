@@ -23,9 +23,9 @@ export const metadata = {
     "Code Like Naveen",
     "code like naveen",
     "MERN Stack Developer",
-    "Web Developer",
-    "React Developer",
-    "Next.js Developer",
+    "AI Developer",
+    "Agentic AI Developer",
+    "Backend Developer",
   ],
   authors: [{ name: "Naveen Reddu" }],
   openGraph: {
